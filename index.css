@@ -2,7 +2,9 @@
     cursor: pointer;
     user-select: none;
   }
-  
+  h1 {
+    color: rgb(255, 136, 0);
+ }
   .check {
     text-decoration: line-through;
   }
